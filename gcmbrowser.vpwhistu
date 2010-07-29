@@ -1,0 +1,52 @@
+[Global]
+CurrentProject=gcmbrowser.vpj
+[ProjectDates]
+gcmbrowser.vpj=20060801143843000
+[ActiveConfig]
+gcmbrowser.vpj=,Debug
+[TreeExpansion2]
+- gcmbrowser.vpj
+  - Source Files
+  - Header Files
+  - Resource Files
+  - Bitmaps
+  - Other Files
+scroll:0
+[State]
+SCREEN: 1600 1200 73 36 1121 898 0 0 N 0 0 0 0 893 567
+CWD: ../stlini/
+BUFFER: BN="source/std_disclaimer.h"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=1 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C	HM=0 MF=808 TL=0 MLL=0 ASE=0 LNL=6 LCF=0 CAPS=0 E=0 ESBU2=-1
+VIEW: LN=.0 CL=1 LE=0 CX=1 CY=0 WI=5 BI=36 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="source/gcmbrowser.cpp"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=1 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C	HM=0 MF=8 TL=0 MLL=0 ASE=0 LNL=6 LCF=0 CAPS=0 E=0 ESBU2=-1
+VIEW: LN=.0 CL=1 LE=0 CX=1 CY=1 WI=5 BI=35 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="source/gcminfo.h"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=1 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C	HM=0 MF=872 TL=0 MLL=0 ASE=0 LNL=6 LCF=0 CAPS=0 E=0 ESBU2=-1
+VIEW: LN=.8219 CL=15 LE=0 CX=15 CY=22 WI=5 BI=13 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="source/gcminfo.cpp"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=1 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C	HM=0 MF=872 TL=0 MLL=0 ASE=0 LNL=6 LCF=0 CAPS=0 E=0 ESBU2=-1
+VIEW: LN=.14666 CL=1 LE=0 CX=1 CY=2 WI=5 BI=40 HT=0 HN=0 HF=0 HC=4
+WINDOW: 25 25 602 382 0 0 N  WF=0 WT=4 "Default Fixed Font,10,0,1"
+BUFFER: BN="source/gcminfo.h"
+VIEW: LN=.8219 CL=15 LE=0 CX=15 CY=22 WI=278 BI=13 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 0 604 446 0 0 N  WF=0 WT=2 "OEM Fixed Font,10,0,1"
+BUFFER: BN="source/gcmbrowser.cpp"
+VIEW: LN=.0 CL=1 LE=0 CX=1 CY=0 WI=253 BI=35 HT=0 HN=0 HF=0 HC=4
+WINDOW: 162 160 602 382 0 0 N  WF=0 WT=3 "Default Fixed Font,10,0,1"
+BUFFER: BN="source/std_disclaimer.h"
+VIEW: LN=.0 CL=1 LE=0 CX=1 CY=0 WI=281 BI=36 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 0 604 445 0 0 N  WF=0 WT=1 "OEM Fixed Font,10,0,1"
+BUFFER: BN="source/gcminfo.cpp"
+VIEW: LN=.15877 CL=13 LE=0 CX=13 CY=20 WI=68 BI=40 HT=0 HN=0 HF=0 HC=4
+FILEHIST: 5
+source/gcmbrowser.cpp
+source/README.txt
+source/gcminfo.cpp
+source/gcminfo.h
+source/std_disclaimer.h
+DEBUG: 0 0 0 0 4 0
+printf
+strcpy
+std::*
+########
